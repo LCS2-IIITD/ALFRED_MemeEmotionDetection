@@ -1,5 +1,6 @@
 # Source code for: ALFRED
 
+![image](https://github.com/user-attachments/assets/817f9ad3-8bfe-4d9e-8685-a2e057b3ced2)
 
 We have provided the implementation of our proposed model ALFRED along with sample data 
 
